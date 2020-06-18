@@ -1,2 +1,6 @@
-# hello-world
-just another repository 
+# include (studio.h)
+ 
+int main (void)
+{
+printf ("hello,world");
+}
